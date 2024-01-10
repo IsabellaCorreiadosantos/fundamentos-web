@@ -1,0 +1,54 @@
+
+/*estilos da pagina index.html */
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center; 
+}
+
+#menu li{
+   display: inline; 
+   padding: 30px;
+   text-decoration: none;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
+
+#menu li a:hover{
+    color: black;
+}
+
+.p-30{
+    padding: 30px;
+}
+/*estilos da pagina contato.html */
+#contato li{
+    display: inline; 
+    padding: 30px;
+    text-decoration: none;
+ }
+ 
+ #contato li a{
+     text-decoration: none;
+     color: red;
+     font-size: 20px;
+ }
+ 
+ #contato li a:hover{
+     color: black;
+ }
+ 
+ .center{
+    text-align: center;
+}
+ 
+ 
